@@ -30,20 +30,8 @@ Detecção de colisão
 
 Reinício automático após colisões
 
-📸 Imagens
-gif
+<h2>📸 Preview <br></h2>
+<img src="https://raw.githubusercontent.com/Developer-Vini/freeway-js/refs/heads/main/gif/gif-game.gif">
 
-🧠 Aprendizado
-Este projeto foi criado com o objetivo de praticar lógica de programação, manipulação de elementos no canvas (ou DOM), detecção de colisões e controle de eventos de teclado.
-
-✅ Status
-✔️ Projeto finalizado e funcional, mas aberto para melhorias como:
-
-Adição de sons
-
-Sistema de níveis/dificuldades
-
-Interface de início e fim de jogo
-
-👨‍💻 Autor
-Desenvolvido por [Seu Nome ou @SeuUsuario] — sinta-se à vontade para entrar em contato!
+<h3>🧠 Aprendizado <br></h3>
+Com esse projeto, desenvolvi um pouco da logica de programação, eventos, colisão, DOM... 
